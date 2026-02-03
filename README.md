@@ -9,15 +9,14 @@ This project aims to classify emails into spam or ham using machine learning tec
 ## Methodology
 1. Data preprocessing (cleaning, tokenization, stopword removal)
 2. Feature extraction using TF-IDF
-3. Model training using Multinomial Naive Bayes
-4. Model evaluation using accuracy and F1-score
+3. Model evaluation using accuracy and F1-score
 
 ## Model
-- Algorithm: Multinomial Naive Bayes
+- Algorithm: Logistic Regression
 
 ## Evaluation
-- Accuracy: 92%
-- F1-score: 91%
+- Accuracy: 97%
+- F1-score: 86%
 
 ## Tech Stack
 - Python
